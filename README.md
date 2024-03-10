@@ -121,4 +121,4 @@ Few of the important columns of this dataset are -
 - Liner Regression
 
 ## Team
-* [Prachi Goliwadekar]
+* [Prachi Goliwadekar](https://www.linkedin.com/in/prachi-goliwadekar-88321822/)
